@@ -1,0 +1,4 @@
+gdal
+libspatialindex-dev
+libgeos-dev
+libproj-dev
