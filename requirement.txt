@@ -1,8 +1,3 @@
-# Requirements for KANESPACE Geospatial Analysis Web App
-# This application is built using Streamlit and provides tools for geospatial data analysis,
-# including visualization, machine learning, and integration with various data sources.
-
-# Core dependencies
 streamlit
 geopandas
 folium
@@ -18,5 +13,3 @@ sqlalchemy
 osmnx
 shapely
 leafmap
-
-# Note: Additional dependencies like 'esda' and 'libpysal' may be required for advanced spatial analysis.
